@@ -240,7 +240,7 @@ const DetailPage = () => {
                 </div>
                 <div className='text-[#A3A1A1]  text-sm'>
                   Setibanya disana, kita akan melakukan resepsi atau makan makan di kediaman di Cibuaya
-                </div>
+                </div> */}
                 <div className='flex flex-col'>
                   <div className='grid grid-cols-2 gap-5'>
                     <img
