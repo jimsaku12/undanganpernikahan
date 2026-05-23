@@ -119,7 +119,7 @@ const DetailPage = () => {
                 Coming soon on Saturday, 30 Mei 2026
               </span>
               <div className='text-white mt-2'>
-                Sadar gak sih, belakangan ini grup kita sepi banget, paling cuma saling nanya kabar bentar. Jujur, otak udah mumet banget gak sih, butuh banget hirup udara segar di luar sana. Daripada kita penat sendiri-sendiri, seharian cuma mantengin HP mulu, mending kita langsung gas jalan-jalan bareng aja lah
+                Daripada kita penat sendiri-sendiri, seharian cuma mantengin HP mulu, mending kita langsung gas jalan-jalan bareng aja lah
               </div>
               <div className='mt-2 text-xs text-gray-500'>
                 Kali ini gak ada alasan ya, pokoknya kalau diajak tuh harus ikut!
@@ -252,13 +252,13 @@ const DetailPage = () => {
                     />
                     <div className='flex flex-col justify-center'>
                       <div className='text-white'>
-                        Episode 3: Foto-foto dan membuat kenangan
+                        Episode 2: Foto-foto dan membuat kenangan
                       </div>
                       <div className='text-[#A3A1A1]  text-sm mt-2'>
                         26m 10s
                       </div>
                     </div>
-                  </div> */}
+                  </div>
                 </div>
                 <div className='text-[#A3A1A1] text-sm'>
                   Seperti biasanya kalau sedang liburan, kita pasti akan melakukan foto foto untuk dijadikan kenang-kenangan
