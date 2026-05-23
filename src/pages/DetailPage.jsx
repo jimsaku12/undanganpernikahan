@@ -239,7 +239,7 @@ const DetailPage = () => {
                   </div>
                 </div>
                 <div className='text-[#A3A1A1]  text-sm'>
-                  Setibanya disana sekitar pukul 19.00 wib, kita akan melakukan resepsi atau makan makan di kediaman di Cibuaya
+                  Setibanya disana, kita akan melakukan resepsi atau makan makan di kediaman di Cibuaya
                 </div>
                 <div className='flex flex-col'>
                   <div className='grid grid-cols-2 gap-5'>
