@@ -217,7 +217,7 @@ const DetailPage = () => {
                   </div>
                 </div>
                 <div className='text-[#A3A1A1] text-sm'>
-                  Kita akan berkumpul sekitar pukul 16.00 Wib di POM Purabaya atau di Pangles
+                  Kita akan berkumpul sekitar pukul 16.00 Wib di Pangles
                 </div>
                 <div className='flex flex-col'>
                   <div className='grid grid-cols-2 gap-5'>
